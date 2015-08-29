@@ -1,4 +1,4 @@
-var fs = require('fs');
+var fs = require('graceful-fs');
 var cluster = require('cluster');
 var os = require('os');
 
